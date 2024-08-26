@@ -15,7 +15,8 @@
 
 ### Demo Screeshots
 
-![Screenshot (205)](https://github.com/user-attachments/assets/036b0d44-b33a-454b-ba93-e7574176aa14)
+![Tailwindcss](https://github.com/user-attachments/assets/4575ffaf-12c7-4dcb-b8e0-10b964d8c1ff)
+
 
 
 
